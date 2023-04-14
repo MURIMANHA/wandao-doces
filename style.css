@@ -141,3 +141,13 @@ body {
 #slide9:checked ~.s1{
   margin-left: -160%;
 }
+
+.img1{
+  border-radius: 9px;
+}
+
+.maozinha{
+  width: 10%;
+  height: 10%;
+  margin-bottom: 10%;
+}
